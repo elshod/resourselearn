@@ -2,7 +2,8 @@
 
 ## MSG
 ```
-For my genius students
+For my genius students (sarcasm)
+````
 
 ## Project setup
 ```
