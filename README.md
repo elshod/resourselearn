@@ -1,5 +1,9 @@
 # todoapp
 
+## MSG
+```
+For my genius students
+
 ## Project setup
 ```
 npm install
