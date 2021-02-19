@@ -1,0 +1,36 @@
+{
+  "cars": [
+    {
+      "model": "Ford",
+      "color": "black",
+      "id": 1
+    },
+    {
+      "model": "BMW",
+      "color": "blue",
+      "id": 2
+    }
+  ],
+  "persons": [
+    {
+      "title": "Fazliddin",
+      "age": "19",
+      "id": 1
+    },
+    {
+      "title": "Javohir",
+      "age": "16",
+      "id": 5
+    },
+    {
+      "title": "Asilbek",
+      "age": "16",
+      "id": 6
+    },
+    {
+      "title": "1asda",
+      "age": "11",
+      "id": 7
+    }
+  ]
+}
